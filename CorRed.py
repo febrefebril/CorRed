@@ -16,7 +16,7 @@ prompt = f.read()
 f.close()
 
 for text in onlyfiles:
-    pathOfText = pathToListOfFiles + '/' + str(text)
+    pathOfText = pathToListOfFiles + str(text)
     print('Iniciando a correçao de ', pathOfText)
     sample_file = PIL.Image.open(pathOfText)
     response = model.generate_content([prompt, sample_file])
