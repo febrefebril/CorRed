@@ -13,7 +13,7 @@ pathOfFiles = [PATH_TO_FILES + f for f in listdir(PATH_TO_FILES) if isfile(join(
 genai.configure(api_key=os.environ["API_KEY"])
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
 
-def promptFromFile(pathToFile):
+def getPromptFromFile(pathToFile):
     f = open(pathToFile)
     prompt = f.read() 
     f.close()
@@ -21,21 +21,16 @@ def promptFromFile(pathToFile):
 
 def essayCorrection(essayPathImage, correctionPrompt ):
     sample_file = PIL.Image.open(essayPathImage)
-    response = model.generate_content([correctionPrompt, sample_file])
-    print(response.text)
-    return response
+    correctedEssay = model.generate_content([correctionPrompt, sample_file])
+    print(correctedEssay.text)
+    return correctedEssay 
 
-for file in pathOfFiles:
-    prompt = promptFromFile(PATH_TO_PROMPT)
-    # pathOfText = PATH_TO_FILES + str(file)
-    # print('Iniciando a correçao de ', pathOfText)
-    response = essayCorrection(file, prompt)
-    print(response.text)
-    saveFileAs = '.' + file.split('.')[1] + '.txt'
+def saveTheCorrection(pathFileToSave, correctedEssay):
+    saveFileAs = '.' + pathFileToSave.split('.')[1] + '.txt'
     print(saveFileAs)
     print('Abrindo arquivo para salvar a correcao em: ', saveFileAs)
     f = open(saveFileAs, 'a')
-    f.write(response.text)
+    f.write(correctedEssay.text)
     f.write('#' * 80)
     f.write('LOG: prompt gerador desta resposta')
     f.write(prompt)
@@ -43,3 +38,10 @@ for file in pathOfFiles:
     f.write('#' * 80)
     f.close()
     print('Fim da correção')
+
+for file in pathOfFiles:
+    prompt = getPromptFromFile(PATH_TO_PROMPT)
+    # pathOfText = PATH_TO_FILES + str(file)
+    # print('Iniciando a correçao de ', pathOfText)
+    correctedEssay = essayCorrection(file, prompt)
+    saveTheCorrection(file, correctedEssay)

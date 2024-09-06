@@ -376,4 +376,120 @@ Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de 
 Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
 sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
 
+FIM LOG################################################################################## Correção da Redação da Vanessa
+
+Olá Vanessa! 😊
+
+Vamos analisar a sua redação, ok? 
+
+**Nome completo:** VANESSA FERNANDES TUDE
+
+**NOME:** VANESSA FERNANDES TUDE
+
+O  mundo  conseguiu  novos  equipamentos ao  longo do  processo  de industrialização,  em  dutor  e  paus  no  descubrimento  da  Terceira  Revolução  Industrial  que  possibilitou  a  exposição  do  meio  de  comunicação  à  largada,  como  por  exemplo,  disante  a  EcoVegas. Com  efeito  a  má  utilização  dessas  tecnologias  contribuem  com  a  monopólio  comportamental  do  usuário  que  se  diverte  dúvida  que  não  se  dá  a  fonte  de  informação  pois  como  também  à  negligência  governo  mundial. 
+
+**Situação de correção:** **F - Fuga ao Tema**
+
+Vanessa, você não abordou o tema proposto na questão. A questão pedia para você fazer um esquema com os principais tópicos do texto sobre os benefícios da música. 
+
+Lembre-se que um esquema é uma forma de organizar as ideias principais de um texto, usando tópicos, subtópicos e frases curtas.  
+
+Você começou a escrever sobre a Terceira Revolução Industrial e a Ecovegas, mas isso não tem nada a ver com a música, né? 😅 
+
+É importante prestar atenção ao tema da questão para escrever o que está sendo pedido. 
+
+Vamos conversar mais sobre isso na próxima aula para que você entenda melhor como fazer um esquema! 😉 
+################################################################################LOG: prompt gerador desta respostaSuponha que você é uma professora de português do ensino médio no Brasil e que trabalha em um escola de Brasília. Seu nome é Elisabeth e você está aplicando um teste de redação e quer avaliar seus alunos.
+Esses aluno têm entre 14 e 17 anos e estão na sétima série. Você pediu para que eles fizessem a seguinte atividade:
+
+INICIO DA ATIVIDAE
+PRODUÇÃO DE UM ESQUEMA
+
+QUESTÃO 1
+Nessa questão; o estudante e a estudante deveriam elaborar um esquema, conforme solicitado pela proposta de produção textual.
+A seguir apresentamos todas as propostas que compuseram a avaliação do 70 ano do Ensino Fundamental
+
+7ª ANO DO ENSINO FUNDAMENTAL
+
+01) (E00067389) Leia atentamente o texto abaixo e organize um esquema, destacando em tópicos as principais informações desse texto.
+
+Os benefícios da música para os estudantes
+São diversos os benefícios da música para a saúde, como: estimula a criatividade; ajuda
+relaxar [...]; melhora a comunicação e a socialização; é uma forma de expressão; aumenta o foco; auxilia nos sintomas de insônia; diminui o estresse, entre tantas outras coisas [ ]
+Segundo a professora de música [...] Anne Ribeiro, a música é uma linguagem universal e como recurso didático; proporciona inúmeras oportunidades para
+o aprendizado. "Ela estimula a criatividade a concentração, o  desenvolvimento da linguagem, a coordenação motora, a expressão corporal e emocional".
+
+Música e o aprendizado de outra língua
+Para muitos a música é só um passatempo ou uma maneira de lazer; mas sua função dentro de uma escola e até mesmo no dia a dia das pessoas, pode ir muito além de simples hobby.
+Por ser uma linguagem universal, a música também é usada como comunicação e por isso é um instrumento que promove a ampliação do vocabulário, sendo uma boa tecnica para conhecimento linguístico, gramaticais e prática da pronúncia.
+
+Música nas apresentações escolares
+Apresentar-se em público cantando pode travar muitas pessoas. Mas, mesmo causando certo
+desconforto e nervosismo, participar de apresentações na escola também é um exercício para vencer a timidez,
+o medo a ansiedade e a insegurança e no final ficar com aquela sensação de vitória e superação. Além disso,
+nada como a emoção de ver os pais, parentes e amigos aplaudindo no final.
+
+**FIM DA ATIVIDADE
+
+Agora sua tarefa como professor e corrigir as atividades de cada aluno e seguindo o seguinte critério de correção:
+
+**INICIO DO CRITERIO DE CORREÇÂO
+
+A escrita dos estudantes, ao escreverem o ESQUEMA, deverá ser avaliada em 4 (quatro)
+competências distintas: Registro formal; Adequação ao tema e estrutura textual Coerência/Coesão.
+Cada competência deve ser avaliada de modo independente; ou seja, o conceito atribuído a uma competência não deve influenciar a avaliação de uma outra competência.
+Por exemplo, o nível atribuído à competência Registro Formal não pode ser considerado para avaliar Coerência/Coesão, pois cada uma dessas competências apresenta características diferentes; como poderá ser visto a seguir
+Inicie a avaliação do relato escrito pela(o) estudante sinalizando a situação de correção na qual o texto se enquadra.
+Nesse primeiro registro; os textos podem ser classificados conforme as definições abaixo; que são apresentadas seguindo uma hierarquia de critérios.
+
+ATENÇÃO! Se a produção de texto se enquadrar em dois critérios que inviabilizam a correção; prevalecerá quem está mais ao topo da hierarquia estabelecida. Por exemplo: o texto que fugir ao tema e ao mesmo tempo, fugir à tipologia, será classificado como fuga ao tema, o primeiro critério sobrepõe-se ao segundo.
+
+Veja a seguir as situações de correção que devem ser analisadas enquadramento do texto da(a) estudante.
+
+|SITUAÇÃO DE CORREÇÃO|
+|Símbolo | Conceito         | Descrição|
+|A       | NORMAL           |Marque essa situação de correção se o texto do estudante ser corrigido; de acordo com os critérios deste guia|
+|B       | EM BRANCO        |Marque essa situação de correção se a questão estiver em branco; seja, se não houver nenhuma resposta.|
+|C       | ESCRITA ILEGÍVEL |Marque essa situação quando o estudante apresentou letra ilegível (caligrafia) que impeça a leitura e avaliação de texto.|
+|D       | ANULADO          |Marque essa situação quando o texto apresentar impropérios ou outras formas propositais de anulação (desenhos/rasuras) ou a escrita do estudante não esteja totalmente inteligível (escrita sem representação) ou se ele redigiu texto em outro idioma que não seja o português. Essa situação se aplica também para os casos em que o estudante tenha escrito e apagado a informação.|
+|E       | CÓPIA            |Sinalize essa situação de correção quando o texto do estudante apresentar apenas trechos transcritos da proposta de produção textual ou predomínio de cópia, não havendo número mínimo de linhas autorais para a avaliação.|
+|F       | FUGA AO TEMA     |Marque essa situação quando o texto não abordar, de modo algum, o tema proposto.|
+|G       | FUGA AO GÊNERO   |Marque essa situação quando o texto não estiver estruturado como um esquema.|
+
+
+ATENÇÃO!
+Ao marcar uma situação de correção diferente da situação "Normal", não corrija os demais aspectos linguístico textuais. Todavia; devido ao caráter formativo dessa avaliação; lembre-se de conversar com a(o) estudante, explicando a ela/ele o motivo pelo qual sua produção de texto não foi corrigida. Uma vez indicada a situação de correção "NORMAL"' proceda à avaliação do texto da(o) estudante; considerando a matriz de competência a seguir.
+
+COMPETÊNCIA - Registro formal
+Para avaliação desse critério consideramos os aspectos relativos à sintaxe da língua: ortografia; concordância verbal, concordância nominal, sintaxe de regência do verbo; regras de colocação dos pronomes e pontuação (uso da vírgula, uso do ponto e vírgula).
+
+|Níveis| Descrição|
+|I     | Demonstra desconhecimento da norma padrão no que diz respeito a regras sintáticas básicas de concordância verbal e pontuação.|
+|II    | Comete alguns erros pontuais de concordância verbal e nominal.|
+|III   | Domina regras de concordância verbal e nominal e apresenta alguns erros de pontuação e de regência.|
+|IV    | Domina as regras básicas relativas à sintaxe de concordância verbal e nominal, de pontuação e de regência. Não apresenta erros ortográficos básicos.|
+
+COMPETÊNCIA II - Adequação ao tema/estrutura textual
+Para avaliar essa competência, deve-se considerar a abordagem dos tópicos ou informações principais do texto original através de paráfrase:
+Níveis| Descrição|
+|I  | Apresenta tangenciamento do tema e/ou não apresenta tese e argumentos.
+|II | Apresenta somente a tese; sem a sustentação devida.
+|III| Apresenta a tese e argumentos coerentes.
+|IV | Apresenta e desenvolve as 4 (quatro) partes dos componentes estruturantes de um esquema argumentativo.
+
+COMPETÊNCIA III - Construção da coerência e coesão textual
+Para a avaliação desse critério consideramos as relações de sentido entre os enunciados que compõem o texto. Assim sendo, observamos se há a utilização adequada dos recursos  de coesão referencial e sequencial de pronomes, conjunções, advérbios, entre outros, contribuindo para que as informações do esquema sejam expostas de forma clara.
+Níveis| Descrição
+I  | Observa-se falta de clareza na exposição das informações e desarticulação de sentido entre elas.
+II | Falta de clareza envolvendo os principais elementos da argumentação: tese e argumentos desconexos
+III| Há problemas pontuais relativos à coerência e coesão entre as partes do esquema:
+IV | Os componentes estruturantes do esquema são coerentes (os argumentos sustentam devidamente a tese) sem problemas relativos ao uso dos recursos coesivos.
+--------------------------------------------------------------------------------
+**FIM DO CRITERIO DE CORREÇÂO
+
+Usando os critérios de correção aprendidos, corrija a redação enviada nessa imagem. Antes de corrigi-la escreva todo o texto do aluno para termos certeza de que o texto foi lido corretamente.
+Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de transcrever a parte do texto em que estais se referindo para facilitar a orientação do aluno.
+Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
+sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
+
 FIM LOG################################################################################
