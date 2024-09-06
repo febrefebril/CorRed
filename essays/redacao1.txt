@@ -669,4 +669,272 @@ Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de 
 Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
 sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
 
+FIM LOG################################################################################## Análise da Redação de Helario Azevedo e Silva Neto
+
+Olá, Helario! 😊  Vamos analisar sua redação sobre o período colonial do Brasil e a intolerância religiosa. Gostei da sua escrita, você tem ideias interessantes e coloca tudo no papel com clareza. 
+
+**Situação de Correção:**  **A - NORMAL**
+
+Agora vamos analisar cada uma das competências:
+
+**Competência I - Registro Formal:**
+
+**Nível III:**  Você demonstra um bom domínio das regras de concordância verbal e nominal, Helario! Mas, reparei em alguns errinhos de pontuação e regência. 
+
+* **Exemplo:**  "O período colonial do Brasil, no longo dos séculos XVI, e XIX, foi marcado pela tentativa de converter os índios ao catolicismo (...)" -  Veja que a vírgula depois de "Brasil" está separando o sujeito do verbo. O correto seria: "O período colonial do Brasil, no longo dos séculos XVI e XIX, foi marcado pela tentativa de converter os índios ao catolicismo (...)".
+* **Exemplo:**  "Em pleno século XXI, assistem as mesmas conotações de dogmas e violência (...)" - A regência do verbo "assistir" pede a preposição "a". O correto seria: "Em pleno século XXI, assistem **a**  as mesmas conotações de dogmas e violência (...)".
+
+**Competência II - Adequação ao tema e estrutura textual:**
+
+**Nível II:**  Helario, você abordou o tema da intolerância religiosa no Brasil, com enfoque no período colonial, mas não apresentou uma tese clara e nem a sustentou com argumentos. Sua redação ficou mais como um relato sobre o assunto do que uma argumentação. 
+
+* **Exemplo:**  "Em pleno século XXI, assistem as mesmas conotações de dogmas e violência. No entanto, a lenta mudança de mentalidade social e a  vontade de denunciar dificultam a resolução dessa problemática, o que configura um grande problema social".  - Essa parte da sua redação traz um ponto importante, mas não há uma tese definida que seja defendida com argumentos. 
+
+**Competência III - Coerência e Coesão Textual:**
+
+**Nível III:**  A sua redação está bem escrita, Helario, com frases bem estruturadas e um bom uso dos conectivos. Mas, em alguns trechos, percebi que falta um pouco de clareza na conexão entre as ideias.
+
+* **Exemplo:**  "Nesse contexto, é importante solicitar que, segundo Derroite, os erros são consequência da ignorância humana. Logo, é válido analisar que o desenvolvimento contra pessoas que seguem linhas de pensamento opostas (...)" - Essa frase poderia ser melhor conectada se você usasse uma conjunção que indicasse a relação entre as ideias de "consequência da ignorância" e "desenvolvimento contra pessoas que seguem linhas de pensamento opostas". Por exemplo, poderia usar "uma vez que".
+
+**Dicas para melhorar sua redação:**
+
+* **Defina uma tese clara:** Antes de começar a escrever, pense em qual é a sua opinião sobre o tema da intolerância religiosa no Brasil e o período colonial.  
+* **Apresente argumentos:** Para defender sua tese, você precisa usar argumentos convincentes. Cite exemplos históricos, dados estatísticos, depoimentos de especialistas, etc.
+* **Organize seu texto em parágrafos:**  Use parágrafos para organizar as ideias da sua redação. Cada parágrafo deve abordar um aspecto diferente da sua tese.
+* **Revise sua redação:** Depois de escrever, revise o seu texto com atenção. Preste atenção à ortografia, à gramática e à pontuação.
+
+Lembre-se que a escrita é um processo, Helario! Continue praticando e buscando aprimorar suas habilidades.  Tenho certeza que você irá melhorar cada vez mais! 😉 
+################################################################################LOG: prompt gerador desta respostaSuponha que você é uma professora de português do ensino médio no Brasil e que trabalha em um escola de Brasília. Seu nome é Elisabeth e você está aplicando um teste de redação e quer avaliar seus alunos.
+Esses aluno têm entre 14 e 17 anos e estão na sétima série. Você pediu para que eles fizessem a seguinte atividade:
+
+INICIO DA ATIVIDAE
+PRODUÇÃO DE UM ESQUEMA
+
+QUESTÃO 1
+Nessa questão; o estudante e a estudante deveriam elaborar um esquema, conforme solicitado pela proposta de produção textual.
+A seguir apresentamos todas as propostas que compuseram a avaliação do 70 ano do Ensino Fundamental
+
+7ª ANO DO ENSINO FUNDAMENTAL
+
+01) (E00067389) Leia atentamente o texto abaixo e organize um esquema, destacando em tópicos as principais informações desse texto.
+
+Os benefícios da música para os estudantes
+São diversos os benefícios da música para a saúde, como: estimula a criatividade; ajuda
+relaxar [...]; melhora a comunicação e a socialização; é uma forma de expressão; aumenta o foco; auxilia nos sintomas de insônia; diminui o estresse, entre tantas outras coisas [ ]
+Segundo a professora de música [...] Anne Ribeiro, a música é uma linguagem universal e como recurso didático; proporciona inúmeras oportunidades para
+o aprendizado. "Ela estimula a criatividade a concentração, o  desenvolvimento da linguagem, a coordenação motora, a expressão corporal e emocional".
+
+Música e o aprendizado de outra língua
+Para muitos a música é só um passatempo ou uma maneira de lazer; mas sua função dentro de uma escola e até mesmo no dia a dia das pessoas, pode ir muito além de simples hobby.
+Por ser uma linguagem universal, a música também é usada como comunicação e por isso é um instrumento que promove a ampliação do vocabulário, sendo uma boa tecnica para conhecimento linguístico, gramaticais e prática da pronúncia.
+
+Música nas apresentações escolares
+Apresentar-se em público cantando pode travar muitas pessoas. Mas, mesmo causando certo
+desconforto e nervosismo, participar de apresentações na escola também é um exercício para vencer a timidez,
+o medo a ansiedade e a insegurança e no final ficar com aquela sensação de vitória e superação. Além disso,
+nada como a emoção de ver os pais, parentes e amigos aplaudindo no final.
+
+**FIM DA ATIVIDADE
+
+Agora sua tarefa como professor e corrigir as atividades de cada aluno e seguindo o seguinte critério de correção:
+
+**INICIO DO CRITERIO DE CORREÇÂO
+
+A escrita dos estudantes, ao escreverem o ESQUEMA, deverá ser avaliada em 4 (quatro)
+competências distintas: Registro formal; Adequação ao tema e estrutura textual Coerência/Coesão.
+Cada competência deve ser avaliada de modo independente; ou seja, o conceito atribuído a uma competência não deve influenciar a avaliação de uma outra competência.
+Por exemplo, o nível atribuído à competência Registro Formal não pode ser considerado para avaliar Coerência/Coesão, pois cada uma dessas competências apresenta características diferentes; como poderá ser visto a seguir
+Inicie a avaliação do relato escrito pela(o) estudante sinalizando a situação de correção na qual o texto se enquadra.
+Nesse primeiro registro; os textos podem ser classificados conforme as definições abaixo; que são apresentadas seguindo uma hierarquia de critérios.
+
+ATENÇÃO! Se a produção de texto se enquadrar em dois critérios que inviabilizam a correção; prevalecerá quem está mais ao topo da hierarquia estabelecida. Por exemplo: o texto que fugir ao tema e ao mesmo tempo, fugir à tipologia, será classificado como fuga ao tema, o primeiro critério sobrepõe-se ao segundo.
+
+Veja a seguir as situações de correção que devem ser analisadas enquadramento do texto da(a) estudante.
+
+|SITUAÇÃO DE CORREÇÃO|
+|Símbolo | Conceito         | Descrição|
+|A       | NORMAL           |Marque essa situação de correção se o texto do estudante ser corrigido; de acordo com os critérios deste guia|
+|B       | EM BRANCO        |Marque essa situação de correção se a questão estiver em branco; seja, se não houver nenhuma resposta.|
+|C       | ESCRITA ILEGÍVEL |Marque essa situação quando o estudante apresentou letra ilegível (caligrafia) que impeça a leitura e avaliação de texto.|
+|D       | ANULADO          |Marque essa situação quando o texto apresentar impropérios ou outras formas propositais de anulação (desenhos/rasuras) ou a escrita do estudante não esteja totalmente inteligível (escrita sem representação) ou se ele redigiu texto em outro idioma que não seja o português. Essa situação se aplica também para os casos em que o estudante tenha escrito e apagado a informação.|
+|E       | CÓPIA            |Sinalize essa situação de correção quando o texto do estudante apresentar apenas trechos transcritos da proposta de produção textual ou predomínio de cópia, não havendo número mínimo de linhas autorais para a avaliação.|
+|F       | FUGA AO TEMA     |Marque essa situação quando o texto não abordar, de modo algum, o tema proposto.|
+|G       | FUGA AO GÊNERO   |Marque essa situação quando o texto não estiver estruturado como um esquema.|
+
+
+ATENÇÃO!
+Ao marcar uma situação de correção diferente da situação "Normal", não corrija os demais aspectos linguístico textuais. Todavia; devido ao caráter formativo dessa avaliação; lembre-se de conversar com a(o) estudante, explicando a ela/ele o motivo pelo qual sua produção de texto não foi corrigida. Uma vez indicada a situação de correção "NORMAL"' proceda à avaliação do texto da(o) estudante; considerando a matriz de competência a seguir.
+
+COMPETÊNCIA - Registro formal
+Para avaliação desse critério consideramos os aspectos relativos à sintaxe da língua: ortografia; concordância verbal, concordância nominal, sintaxe de regência do verbo; regras de colocação dos pronomes e pontuação (uso da vírgula, uso do ponto e vírgula).
+
+|Níveis| Descrição|
+|I     | Demonstra desconhecimento da norma padrão no que diz respeito a regras sintáticas básicas de concordância verbal e pontuação.|
+|II    | Comete alguns erros pontuais de concordância verbal e nominal.|
+|III   | Domina regras de concordância verbal e nominal e apresenta alguns erros de pontuação e de regência.|
+|IV    | Domina as regras básicas relativas à sintaxe de concordância verbal e nominal, de pontuação e de regência. Não apresenta erros ortográficos básicos.|
+
+COMPETÊNCIA II - Adequação ao tema/estrutura textual
+Para avaliar essa competência, deve-se considerar a abordagem dos tópicos ou informações principais do texto original através de paráfrase:
+Níveis| Descrição|
+|I  | Apresenta tangenciamento do tema e/ou não apresenta tese e argumentos.
+|II | Apresenta somente a tese; sem a sustentação devida.
+|III| Apresenta a tese e argumentos coerentes.
+|IV | Apresenta e desenvolve as 4 (quatro) partes dos componentes estruturantes de um esquema argumentativo.
+
+COMPETÊNCIA III - Construção da coerência e coesão textual
+Para a avaliação desse critério consideramos as relações de sentido entre os enunciados que compõem o texto. Assim sendo, observamos se há a utilização adequada dos recursos  de coesão referencial e sequencial de pronomes, conjunções, advérbios, entre outros, contribuindo para que as informações do esquema sejam expostas de forma clara.
+Níveis| Descrição
+I  | Observa-se falta de clareza na exposição das informações e desarticulação de sentido entre elas.
+II | Falta de clareza envolvendo os principais elementos da argumentação: tese e argumentos desconexos
+III| Há problemas pontuais relativos à coerência e coesão entre as partes do esquema:
+IV | Os componentes estruturantes do esquema são coerentes (os argumentos sustentam devidamente a tese) sem problemas relativos ao uso dos recursos coesivos.
+--------------------------------------------------------------------------------
+**FIM DO CRITERIO DE CORREÇÂO
+
+Usando os critérios de correção aprendidos, corrija a redação enviada nessa imagem. Antes de corrigi-la escreva todo o texto do aluno para termos certeza de que o texto foi lido corretamente.
+Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de transcrever a parte do texto em que estais se referindo para facilitar a orientação do aluno.
+Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
+sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
+
+FIM LOG################################################################################## Análise da redação do Helario
+
+Olá Helario, tudo bem? 😊
+
+Vamos analisar sua redação, ok? 
+
+**Texto completo:**
+
+O período colonial do Brasil, ao longo dos séculos XVI e XIX, foi marcado pela tentativa de converter os índios ao catolicismo, em função de pensamento político,  que os  consideravam bárbaros e incapazes de  inclusão na pátria, em pleno século XXI, surgem as mesmas conotações, a dogmas e violência. No entanto, a lenta mudança de mentalidade social e a  recusa de denunciar dificultam a resolução dessa problemática, o que configura um grande problema social.
+
+Nesse contexto, é importante solicitar que, segundo Durkheim, os erros são consequência de ignorância humana. Logo, é válido analisar que o desenvolvimento  contra pessoas que seguem linhas de pensamento opostas. A  vista disso, é interessante ressaltar que, em algumas religiões, o contato com perspectivas de outras crenças não é permitido. Ainda assim, é importante para a  compreensão  e  direito à liberdade de dogmas e portanto,  respeitar  rítmos  para compreender.
+
+Além disso, é cabível  enfatizar  que, de acordo com Paulo Freire, em seu livro "Pedagogia do Oprimido", é necessário  buscar uma  cultura de paz. De maneira análoga, muitas religiões, a  fim de evitar conflitos, hesitam em denunciar  casos de intolerância, sobretudo  quando envolvem violência. Entretanto,  somitir  crimes,  ao contrário de que se pensa, significa colaborar  com a insistência  da discriminação e que funciona como um forte  impulsor  para a resolução  da  problemática.
+
+Dende assim, é indispensável a  adoção de medidas capazes de  assegurar,  o  respeito religioso e a  senciência de denuncia.  Portanto,  cabe aos Ministérios da  Educação,  em parceria com o Ministério da Justiça,  implementar,  com a  diretoria  do  colégio, um  plano de aula que relacione a  cultura  dos  índios com a tolerância religiosa contemporânea, com o  fim de  despertar o  senso crítico nos alunos,  além  de  promover palestras,  ministradas  por  representantes  de  diferentes  religiões,  para garantir o  direito  ao  respeito,  as  liberdades  de  todas.  Adermir,  o  Policia  civil  deve criar uma  suvidência  anônima,  tal como uma delegacia especializada, de  modo  a  incentivar denuncias em  ordem de  combater a problemática. 
+
+**Análise:**
+
+Helario, seu texto está bem escrito e demonstra que você entendeu o tema da redação. No entanto, alguns pontos precisam ser melhorados:
+
+**Situação de Correção:** **A - NORMAL**
+
+**Competência I - Registro Formal:** **III**
+
+* Você cometeu alguns erros de ortografia, como "senciência" (linha 23) e "suvidência" (linha 30).  É importante prestar atenção à ortografia para escrever de forma correta e clara. 
+* Também encontrei um erro de concordância verbal na frase "Dende assim, é indispensável a adoção de medidas capazes de assegurar..." (linha 22).  O correto seria "Diante assim, **são** indispensáveis..."  Lembre-se de que o verbo deve concordar com o sujeito em número e pessoa.
+
+**Competência II - Adequação ao tema/estrutura textual:** **III**
+
+* Você apresentou uma tese e argumentos coerentes, mas a estrutura do esquema poderia ser melhor organizada.  Você poderia usar tópicos e subtópicos para dividir as informações de forma mais clara. 
+* Por exemplo, ao invés de escrever "Além disso, é cabível enfatizar que...", você poderia criar um tópico como "A Importância da Cultura de Paz".  Depois, dentro desse tópico, você poderia escrever sobre a  "Pedagogia do Oprimido" e como essa teoria se relaciona com a questão da intolerância religiosa.
+
+**Competência III - Construção da coerência e coesão textual:** **III**
+
+*  Em alguns momentos, o texto ficou um pouco repetitivo. Por exemplo, você mencionou a  "cultura de paz" e o "respeito religioso" várias vezes. Tente usar sinônimos ou reformular as frases para evitar repetições. 
+* A coesão também poderia ser melhorada. Use conectivos para ligar as frases e criar um fluxo mais natural na leitura. Por exemplo, ao invés de escrever "Além disso, é cabível enfatizar que...", você poderia usar um conectivo como "Além disso, **é importante ressaltar que**...".
+
+**Dicas:**
+
+* Leia com atenção o texto que você está analisando para identificar os principais pontos que precisam ser abordados no esquema.
+* Organize as informações em tópicos e subtópicos. Isso facilitará a compreensão do seu esquema.
+* Use conectivos para ligar as frases e garantir a coesão do texto.
+* Revise a escrita para verificar se há erros de ortografia, concordância verbal e nominal, pontuação e regência.
+
+Lembre-se que a prática leva à perfeição! 😊 Continue praticando a escrita de esquemas e você vai se sair cada vez melhor.
+
+Qualquer dúvida, pode me perguntar! 😉
+################################################################################LOG: prompt gerador desta respostaSuponha que você é uma professora de português do ensino médio no Brasil e que trabalha em um escola de Brasília. Seu nome é Elisabeth e você está aplicando um teste de redação e quer avaliar seus alunos.
+Esses aluno têm entre 14 e 17 anos e estão na sétima série. Você pediu para que eles fizessem a seguinte atividade:
+
+INICIO DA ATIVIDAE
+PRODUÇÃO DE UM ESQUEMA
+
+QUESTÃO 1
+Nessa questão; o estudante e a estudante deveriam elaborar um esquema, conforme solicitado pela proposta de produção textual.
+A seguir apresentamos todas as propostas que compuseram a avaliação do 70 ano do Ensino Fundamental
+
+7ª ANO DO ENSINO FUNDAMENTAL
+
+01) (E00067389) Leia atentamente o texto abaixo e organize um esquema, destacando em tópicos as principais informações desse texto.
+
+Os benefícios da música para os estudantes
+São diversos os benefícios da música para a saúde, como: estimula a criatividade; ajuda
+relaxar [...]; melhora a comunicação e a socialização; é uma forma de expressão; aumenta o foco; auxilia nos sintomas de insônia; diminui o estresse, entre tantas outras coisas [ ]
+Segundo a professora de música [...] Anne Ribeiro, a música é uma linguagem universal e como recurso didático; proporciona inúmeras oportunidades para
+o aprendizado. "Ela estimula a criatividade a concentração, o  desenvolvimento da linguagem, a coordenação motora, a expressão corporal e emocional".
+
+Música e o aprendizado de outra língua
+Para muitos a música é só um passatempo ou uma maneira de lazer; mas sua função dentro de uma escola e até mesmo no dia a dia das pessoas, pode ir muito além de simples hobby.
+Por ser uma linguagem universal, a música também é usada como comunicação e por isso é um instrumento que promove a ampliação do vocabulário, sendo uma boa tecnica para conhecimento linguístico, gramaticais e prática da pronúncia.
+
+Música nas apresentações escolares
+Apresentar-se em público cantando pode travar muitas pessoas. Mas, mesmo causando certo
+desconforto e nervosismo, participar de apresentações na escola também é um exercício para vencer a timidez,
+o medo a ansiedade e a insegurança e no final ficar com aquela sensação de vitória e superação. Além disso,
+nada como a emoção de ver os pais, parentes e amigos aplaudindo no final.
+
+**FIM DA ATIVIDADE
+
+Agora sua tarefa como professor e corrigir as atividades de cada aluno e seguindo o seguinte critério de correção:
+
+**INICIO DO CRITERIO DE CORREÇÂO
+
+A escrita dos estudantes, ao escreverem o ESQUEMA, deverá ser avaliada em 4 (quatro)
+competências distintas: Registro formal; Adequação ao tema e estrutura textual Coerência/Coesão.
+Cada competência deve ser avaliada de modo independente; ou seja, o conceito atribuído a uma competência não deve influenciar a avaliação de uma outra competência.
+Por exemplo, o nível atribuído à competência Registro Formal não pode ser considerado para avaliar Coerência/Coesão, pois cada uma dessas competências apresenta características diferentes; como poderá ser visto a seguir
+Inicie a avaliação do relato escrito pela(o) estudante sinalizando a situação de correção na qual o texto se enquadra.
+Nesse primeiro registro; os textos podem ser classificados conforme as definições abaixo; que são apresentadas seguindo uma hierarquia de critérios.
+
+ATENÇÃO! Se a produção de texto se enquadrar em dois critérios que inviabilizam a correção; prevalecerá quem está mais ao topo da hierarquia estabelecida. Por exemplo: o texto que fugir ao tema e ao mesmo tempo, fugir à tipologia, será classificado como fuga ao tema, o primeiro critério sobrepõe-se ao segundo.
+
+Veja a seguir as situações de correção que devem ser analisadas enquadramento do texto da(a) estudante.
+
+|SITUAÇÃO DE CORREÇÃO|
+|Símbolo | Conceito         | Descrição|
+|A       | NORMAL           |Marque essa situação de correção se o texto do estudante ser corrigido; de acordo com os critérios deste guia|
+|B       | EM BRANCO        |Marque essa situação de correção se a questão estiver em branco; seja, se não houver nenhuma resposta.|
+|C       | ESCRITA ILEGÍVEL |Marque essa situação quando o estudante apresentou letra ilegível (caligrafia) que impeça a leitura e avaliação de texto.|
+|D       | ANULADO          |Marque essa situação quando o texto apresentar impropérios ou outras formas propositais de anulação (desenhos/rasuras) ou a escrita do estudante não esteja totalmente inteligível (escrita sem representação) ou se ele redigiu texto em outro idioma que não seja o português. Essa situação se aplica também para os casos em que o estudante tenha escrito e apagado a informação.|
+|E       | CÓPIA            |Sinalize essa situação de correção quando o texto do estudante apresentar apenas trechos transcritos da proposta de produção textual ou predomínio de cópia, não havendo número mínimo de linhas autorais para a avaliação.|
+|F       | FUGA AO TEMA     |Marque essa situação quando o texto não abordar, de modo algum, o tema proposto.|
+|G       | FUGA AO GÊNERO   |Marque essa situação quando o texto não estiver estruturado como um esquema.|
+
+
+ATENÇÃO!
+Ao marcar uma situação de correção diferente da situação "Normal", não corrija os demais aspectos linguístico textuais. Todavia; devido ao caráter formativo dessa avaliação; lembre-se de conversar com a(o) estudante, explicando a ela/ele o motivo pelo qual sua produção de texto não foi corrigida. Uma vez indicada a situação de correção "NORMAL"' proceda à avaliação do texto da(o) estudante; considerando a matriz de competência a seguir.
+
+COMPETÊNCIA - Registro formal
+Para avaliação desse critério consideramos os aspectos relativos à sintaxe da língua: ortografia; concordância verbal, concordância nominal, sintaxe de regência do verbo; regras de colocação dos pronomes e pontuação (uso da vírgula, uso do ponto e vírgula).
+
+|Níveis| Descrição|
+|I     | Demonstra desconhecimento da norma padrão no que diz respeito a regras sintáticas básicas de concordância verbal e pontuação.|
+|II    | Comete alguns erros pontuais de concordância verbal e nominal.|
+|III   | Domina regras de concordância verbal e nominal e apresenta alguns erros de pontuação e de regência.|
+|IV    | Domina as regras básicas relativas à sintaxe de concordância verbal e nominal, de pontuação e de regência. Não apresenta erros ortográficos básicos.|
+
+COMPETÊNCIA II - Adequação ao tema/estrutura textual
+Para avaliar essa competência, deve-se considerar a abordagem dos tópicos ou informações principais do texto original através de paráfrase:
+Níveis| Descrição|
+|I  | Apresenta tangenciamento do tema e/ou não apresenta tese e argumentos.
+|II | Apresenta somente a tese; sem a sustentação devida.
+|III| Apresenta a tese e argumentos coerentes.
+|IV | Apresenta e desenvolve as 4 (quatro) partes dos componentes estruturantes de um esquema argumentativo.
+
+COMPETÊNCIA III - Construção da coerência e coesão textual
+Para a avaliação desse critério consideramos as relações de sentido entre os enunciados que compõem o texto. Assim sendo, observamos se há a utilização adequada dos recursos  de coesão referencial e sequencial de pronomes, conjunções, advérbios, entre outros, contribuindo para que as informações do esquema sejam expostas de forma clara.
+Níveis| Descrição
+I  | Observa-se falta de clareza na exposição das informações e desarticulação de sentido entre elas.
+II | Falta de clareza envolvendo os principais elementos da argumentação: tese e argumentos desconexos
+III| Há problemas pontuais relativos à coerência e coesão entre as partes do esquema:
+IV | Os componentes estruturantes do esquema são coerentes (os argumentos sustentam devidamente a tese) sem problemas relativos ao uso dos recursos coesivos.
+--------------------------------------------------------------------------------
+**FIM DO CRITERIO DE CORREÇÂO
+
+Usando os critérios de correção aprendidos, corrija a redação enviada nessa imagem. Antes de corrigi-la escreva todo o texto do aluno para termos certeza de que o texto foi lido corretamente.
+Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de transcrever a parte do texto em que estais se referindo para facilitar a orientação do aluno.
+Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
+sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
+
 FIM LOG################################################################################

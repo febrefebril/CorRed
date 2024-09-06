@@ -19,7 +19,7 @@ def getPromptFromFile(pathToFile):
     f.close()
     return prompt
 
-def doEssayCorrection(essayPathImage, correctionPrompt ):
+def essayCorrection(essayPathImage, correctionPrompt ):
     sample_file = PIL.Image.open(essayPathImage)
     correctedEssay = model.generate_content([correctionPrompt, sample_file])
     print(correctedEssay.text)
@@ -41,9 +41,9 @@ def saveTheCorrection(pathFileToSave, correctedEssay, prompt):
 
 def correctionOfAllEssayFromFolder(pathToFolderOfTheEssays, promptOfCorrection):
     for file in pathToFolderOfTheEssays:
-        correctedEssay = doEssayCorrection(file, prompt)
+        prompt = getPromptFromFile(promptOfCorrection)
+        correctedEssay = essayCorrection(file, prompt)
         saveTheCorrection(file, correctedEssay, prompt)
 
-prompt = getPromptFromFile(PATH_TO_PROMPT)
-correctionOfAllEssayFromFolder(pathOfFiles, prompt)
+correctionOfAllEssayFromFolder(pathOfFiles, PATH_TO_PROMPT)
 
