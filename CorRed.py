@@ -8,14 +8,16 @@ from os.path import isfile, join
 PATH_TO_FILES = './essays/'
 # pathToPrompt = './prompts/instructionPrompt'
 PATH_TO_PROMPT = './prompts/instructionPrompt'
-onlyfiles = [f for f in listdir(PATH_TO_FILES) if isfile(join(PATH_TO_FILES, f)) and ('.txt' not in str(f))]
-print(onlyfiles)
+onlyfiles = [PATH_TO_FILES + f for f in listdir(PATH_TO_FILES) if isfile(join(PATH_TO_FILES, f)) and ('.txt' not in str(f))]
 
 genai.configure(api_key=os.environ["API_KEY"])
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
-f = open(PATH_TO_PROMPT)
-prompt = f.read() 
-f.close()
+
+def promptFromFile(pathToFile):
+    f = open(pathToFile)
+    prompt = f.read() 
+    f.close()
+    return prompt
 
 for text in onlyfiles:
     pathOfText = PATH_TO_FILES + str(text)
