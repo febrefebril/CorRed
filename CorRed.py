@@ -21,9 +21,9 @@ def promptFromFile(pathToFile):
 
 for file in pathOfFiles:
     prompt = promptFromFile(PATH_TO_PROMPT)
-    pathOfText = PATH_TO_FILES + str(file)
-    print('Iniciando a correçao de ', pathOfText)
-    sample_file = PIL.Image.open(pathOfText)
+    # pathOfText = PATH_TO_FILES + str(file)
+    # print('Iniciando a correçao de ', pathOfText)
+    sample_file = PIL.Image.open(file)
     response = model.generate_content([prompt, sample_file])
     print(response.text)
     saveFileAs = '.' + pathOfText.split('.')[1] + '.txt'

@@ -1,4 +1,5 @@
 CorRed - junção de dois nomes corrigir redação. 
+
 Esse projeto sera usado para cria uma aplicação que ajuda professores no processo de corrigir redações. 
 Outra intensão desse projeto será utilizar frameworks diferentes para realizar testes e para o aprendizado.
 
