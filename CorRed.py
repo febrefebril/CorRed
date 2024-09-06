@@ -19,15 +19,21 @@ def promptFromFile(pathToFile):
     f.close()
     return prompt
 
+def essayCorrection(essayPathImage, correctionPrompt ):
+    sample_file = PIL.Image.open(essayPathImage)
+    response = model.generate_content([correctionPrompt, sample_file])
+    print(response.text)
+    return response
+
 for file in pathOfFiles:
     prompt = promptFromFile(PATH_TO_PROMPT)
     # pathOfText = PATH_TO_FILES + str(file)
     # print('Iniciando a correçao de ', pathOfText)
-    sample_file = PIL.Image.open(file)
-    response = model.generate_content([prompt, sample_file])
+    response = essayCorrection(file, prompt)
     print(response.text)
-    saveFileAs = '.' + pathOfText.split('.')[1] + '.txt'
-    print('Abrindo arquivo: ', saveFileAs)
+    saveFileAs = '.' + file.split('.')[1] + '.txt'
+    print(saveFileAs)
+    print('Abrindo arquivo para salvar a correcao em: ', saveFileAs)
     f = open(saveFileAs, 'a')
     f.write(response.text)
     f.write('#' * 80)

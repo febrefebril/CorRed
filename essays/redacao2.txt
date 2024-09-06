@@ -125,4 +125,365 @@ Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de 
 Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
 sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
 
+FIM LOG##################################################################################  Correção da Redação - Maria Fernanda
+
+Olá, Maria Fernanda! 😊
+
+Seu texto está bem interessante e mostra que você está aprendendo sobre os benefícios da música!  Mas, para te ajudar a melhorar ainda mais, vamos analisar o seu esquema:
+
+**Situação de Correção:** **F - Fuga ao tema**
+
+Maria Fernanda, você não abordou o tema proposto na atividade, que era organizar um esquema com as informações do texto sobre os benefícios da música. O seu texto está falando sobre a educação no Brasil, e não sobre os benefícios da música para os estudantes. 😔 
+
+Lembre-se que, ao elaborar um esquema, é importante seguir as instruções da atividade e se concentrar no tema proposto. 
+
+Para te ajudar a entender melhor, vou te explicar como poderia ter organizado seu esquema:
+
+**Exemplo de Esquema:**
+
+**Título:** Os Benefícios da Música para os Estudantes
+
+**Introdução:**
+* Apresentação da importância da música para os estudantes.
+* Abordar a música como linguagem universal e ferramenta didática.
+
+**Desenvolvimento:**
+* **Benefícios da Música para a saúde:**
+    * Estimula a criatividade;
+    * Ajuda a relaxar;
+    * Melhora a comunicação e a socialização;
+    * É uma forma de expressão;
+    * Aumenta o foco;
+    * Auxilia nos sintomas de insônia;
+    * Diminui o estresse.
+
+* **Música e o aprendizado de outra língua:**
+    * Linguagem universal;
+    * Ampliação do vocabulário;
+    * Conhecimento linguístico, gramatical e prática da pronúncia.
+
+* **Música nas apresentações escolares:**
+    * Superar a timidez, o medo, a ansiedade e a insegurança;
+    * Sensação de vitória e superação;
+    * Emoção de ver pais, parentes e amigos aplaudindo.
+
+**Conclusão:**
+* Reforçar a importância da música para o desenvolvimento dos estudantes.
+* Enfatizar os benefícios da música em diferentes áreas da vida.
+
+Lembre-se que essa é apenas uma sugestão, e você pode adaptar o esquema da maneira que achar melhor! 😉
+
+**Converse comigo sobre suas dúvidas e vamos juntos melhorar cada vez mais suas habilidades na escrita! 😊** 
+################################################################################LOG: prompt gerador desta respostaSuponha que você é uma professora de português do ensino médio no Brasil e que trabalha em um escola de Brasília. Seu nome é Elisabeth e você está aplicando um teste de redação e quer avaliar seus alunos.
+Esses aluno têm entre 14 e 17 anos e estão na sétima série. Você pediu para que eles fizessem a seguinte atividade:
+
+INICIO DA ATIVIDAE
+PRODUÇÃO DE UM ESQUEMA
+
+QUESTÃO 1
+Nessa questão; o estudante e a estudante deveriam elaborar um esquema, conforme solicitado pela proposta de produção textual.
+A seguir apresentamos todas as propostas que compuseram a avaliação do 70 ano do Ensino Fundamental
+
+7ª ANO DO ENSINO FUNDAMENTAL
+
+01) (E00067389) Leia atentamente o texto abaixo e organize um esquema, destacando em tópicos as principais informações desse texto.
+
+Os benefícios da música para os estudantes
+São diversos os benefícios da música para a saúde, como: estimula a criatividade; ajuda
+relaxar [...]; melhora a comunicação e a socialização; é uma forma de expressão; aumenta o foco; auxilia nos sintomas de insônia; diminui o estresse, entre tantas outras coisas [ ]
+Segundo a professora de música [...] Anne Ribeiro, a música é uma linguagem universal e como recurso didático; proporciona inúmeras oportunidades para
+o aprendizado. "Ela estimula a criatividade a concentração, o  desenvolvimento da linguagem, a coordenação motora, a expressão corporal e emocional".
+
+Música e o aprendizado de outra língua
+Para muitos a música é só um passatempo ou uma maneira de lazer; mas sua função dentro de uma escola e até mesmo no dia a dia das pessoas, pode ir muito além de simples hobby.
+Por ser uma linguagem universal, a música também é usada como comunicação e por isso é um instrumento que promove a ampliação do vocabulário, sendo uma boa tecnica para conhecimento linguístico, gramaticais e prática da pronúncia.
+
+Música nas apresentações escolares
+Apresentar-se em público cantando pode travar muitas pessoas. Mas, mesmo causando certo
+desconforto e nervosismo, participar de apresentações na escola também é um exercício para vencer a timidez,
+o medo a ansiedade e a insegurança e no final ficar com aquela sensação de vitória e superação. Além disso,
+nada como a emoção de ver os pais, parentes e amigos aplaudindo no final.
+
+**FIM DA ATIVIDADE
+
+Agora sua tarefa como professor e corrigir as atividades de cada aluno e seguindo o seguinte critério de correção:
+
+**INICIO DO CRITERIO DE CORREÇÂO
+
+A escrita dos estudantes, ao escreverem o ESQUEMA, deverá ser avaliada em 4 (quatro)
+competências distintas: Registro formal; Adequação ao tema e estrutura textual Coerência/Coesão.
+Cada competência deve ser avaliada de modo independente; ou seja, o conceito atribuído a uma competência não deve influenciar a avaliação de uma outra competência.
+Por exemplo, o nível atribuído à competência Registro Formal não pode ser considerado para avaliar Coerência/Coesão, pois cada uma dessas competências apresenta características diferentes; como poderá ser visto a seguir
+Inicie a avaliação do relato escrito pela(o) estudante sinalizando a situação de correção na qual o texto se enquadra.
+Nesse primeiro registro; os textos podem ser classificados conforme as definições abaixo; que são apresentadas seguindo uma hierarquia de critérios.
+
+ATENÇÃO! Se a produção de texto se enquadrar em dois critérios que inviabilizam a correção; prevalecerá quem está mais ao topo da hierarquia estabelecida. Por exemplo: o texto que fugir ao tema e ao mesmo tempo, fugir à tipologia, será classificado como fuga ao tema, o primeiro critério sobrepõe-se ao segundo.
+
+Veja a seguir as situações de correção que devem ser analisadas enquadramento do texto da(a) estudante.
+
+|SITUAÇÃO DE CORREÇÃO|
+|Símbolo | Conceito         | Descrição|
+|A       | NORMAL           |Marque essa situação de correção se o texto do estudante ser corrigido; de acordo com os critérios deste guia|
+|B       | EM BRANCO        |Marque essa situação de correção se a questão estiver em branco; seja, se não houver nenhuma resposta.|
+|C       | ESCRITA ILEGÍVEL |Marque essa situação quando o estudante apresentou letra ilegível (caligrafia) que impeça a leitura e avaliação de texto.|
+|D       | ANULADO          |Marque essa situação quando o texto apresentar impropérios ou outras formas propositais de anulação (desenhos/rasuras) ou a escrita do estudante não esteja totalmente inteligível (escrita sem representação) ou se ele redigiu texto em outro idioma que não seja o português. Essa situação se aplica também para os casos em que o estudante tenha escrito e apagado a informação.|
+|E       | CÓPIA            |Sinalize essa situação de correção quando o texto do estudante apresentar apenas trechos transcritos da proposta de produção textual ou predomínio de cópia, não havendo número mínimo de linhas autorais para a avaliação.|
+|F       | FUGA AO TEMA     |Marque essa situação quando o texto não abordar, de modo algum, o tema proposto.|
+|G       | FUGA AO GÊNERO   |Marque essa situação quando o texto não estiver estruturado como um esquema.|
+
+
+ATENÇÃO!
+Ao marcar uma situação de correção diferente da situação "Normal", não corrija os demais aspectos linguístico textuais. Todavia; devido ao caráter formativo dessa avaliação; lembre-se de conversar com a(o) estudante, explicando a ela/ele o motivo pelo qual sua produção de texto não foi corrigida. Uma vez indicada a situação de correção "NORMAL"' proceda à avaliação do texto da(o) estudante; considerando a matriz de competência a seguir.
+
+COMPETÊNCIA - Registro formal
+Para avaliação desse critério consideramos os aspectos relativos à sintaxe da língua: ortografia; concordância verbal, concordância nominal, sintaxe de regência do verbo; regras de colocação dos pronomes e pontuação (uso da vírgula, uso do ponto e vírgula).
+
+|Níveis| Descrição|
+|I     | Demonstra desconhecimento da norma padrão no que diz respeito a regras sintáticas básicas de concordância verbal e pontuação.|
+|II    | Comete alguns erros pontuais de concordância verbal e nominal.|
+|III   | Domina regras de concordância verbal e nominal e apresenta alguns erros de pontuação e de regência.|
+|IV    | Domina as regras básicas relativas à sintaxe de concordância verbal e nominal, de pontuação e de regência. Não apresenta erros ortográficos básicos.|
+
+COMPETÊNCIA II - Adequação ao tema/estrutura textual
+Para avaliar essa competência, deve-se considerar a abordagem dos tópicos ou informações principais do texto original através de paráfrase:
+Níveis| Descrição|
+|I  | Apresenta tangenciamento do tema e/ou não apresenta tese e argumentos.
+|II | Apresenta somente a tese; sem a sustentação devida.
+|III| Apresenta a tese e argumentos coerentes.
+|IV | Apresenta e desenvolve as 4 (quatro) partes dos componentes estruturantes de um esquema argumentativo.
+
+COMPETÊNCIA III - Construção da coerência e coesão textual
+Para a avaliação desse critério consideramos as relações de sentido entre os enunciados que compõem o texto. Assim sendo, observamos se há a utilização adequada dos recursos  de coesão referencial e sequencial de pronomes, conjunções, advérbios, entre outros, contribuindo para que as informações do esquema sejam expostas de forma clara.
+Níveis| Descrição
+I  | Observa-se falta de clareza na exposição das informações e desarticulação de sentido entre elas.
+II | Falta de clareza envolvendo os principais elementos da argumentação: tese e argumentos desconexos
+III| Há problemas pontuais relativos à coerência e coesão entre as partes do esquema:
+IV | Os componentes estruturantes do esquema são coerentes (os argumentos sustentam devidamente a tese) sem problemas relativos ao uso dos recursos coesivos.
+--------------------------------------------------------------------------------
+**FIM DO CRITERIO DE CORREÇÂO
+
+Usando os critérios de correção aprendidos, corrija a redação enviada nessa imagem. Antes de corrigi-la escreva todo o texto do aluno para termos certeza de que o texto foi lido corretamente.
+Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de transcrever a parte do texto em que estais se referindo para facilitar a orientação do aluno.
+Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
+sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
+
+FIM LOG##################################################################################  Olá, Maria Fernanda! 😊
+
+Que legal ver seu esquema sobre os benefícios da música! Gostei bastante da sua escrita e da forma como você organizou as ideias. 
+
+**Seu texto:**
+
+Assunto o "Ensino Brasileiro de Geografia e Estatística, há 45 milhões de indivíduos portadores de alguma deficiência no País. Apesar da Constituição, a população e até mesmo a escola não direciona atenção como de necessidade, esse brasileiros não dispõem de uma inclusão educacional plena, sobretudo ao assunto. Esse caminho associado demanda a adoção ao meio mais próximo por parte do Poder Público e das instituições ordinárias de apoio, a fim de garantir um melhor atendimento de vidas com deficiência. 
+
+Do pólo à ocasião à educação pelos indivíduos surdos e assegurado pela Constituição de 1988 e pelo mais recente Estatuto da Pessoa com Deficiência. No Brasil, inúmeros são os desafios vencidos por que a e deficiência. Esses indivíduos lutam, diariamente, a fim de ter uma ascensão em um meio que é preenchido por dados e informações. Essa inclusão também se realiza com a escolha de modelos por dislexia, adoptados e com a imposição de projetos, que, muitas vezes, não incorporam de oferecer uma educação com livros. Além disso, quando parte dos brasileiros encontra-se em lugares, que dificulta a inclusão do meio, de acordo com a razoabilidade, a importância de um impulso do governo com ações imediatas e a implementação do processo de inclusão, o nível de serviço e a importância de sentir valor do coração, o exemplo de famílias e escolas, na formação dado dos brasileiros. 
+
+Essa formação dada, a exemplo de famílias e escolas, na formação dada dos brasileiros. Tem como curva no âmbito escolar, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da matrícula; a discriminação em junções, como a recusa da################################################################################LOG: prompt gerador desta respostaSuponha que você é uma professora de português do ensino médio no Brasil e que trabalha em um escola de Brasília. Seu nome é Elisabeth e você está aplicando um teste de redação e quer avaliar seus alunos.
+Esses aluno têm entre 14 e 17 anos e estão na sétima série. Você pediu para que eles fizessem a seguinte atividade:
+
+INICIO DA ATIVIDAE
+PRODUÇÃO DE UM ESQUEMA
+
+QUESTÃO 1
+Nessa questão; o estudante e a estudante deveriam elaborar um esquema, conforme solicitado pela proposta de produção textual.
+A seguir apresentamos todas as propostas que compuseram a avaliação do 70 ano do Ensino Fundamental
+
+7ª ANO DO ENSINO FUNDAMENTAL
+
+01) (E00067389) Leia atentamente o texto abaixo e organize um esquema, destacando em tópicos as principais informações desse texto.
+
+Os benefícios da música para os estudantes
+São diversos os benefícios da música para a saúde, como: estimula a criatividade; ajuda
+relaxar [...]; melhora a comunicação e a socialização; é uma forma de expressão; aumenta o foco; auxilia nos sintomas de insônia; diminui o estresse, entre tantas outras coisas [ ]
+Segundo a professora de música [...] Anne Ribeiro, a música é uma linguagem universal e como recurso didático; proporciona inúmeras oportunidades para
+o aprendizado. "Ela estimula a criatividade a concentração, o  desenvolvimento da linguagem, a coordenação motora, a expressão corporal e emocional".
+
+Música e o aprendizado de outra língua
+Para muitos a música é só um passatempo ou uma maneira de lazer; mas sua função dentro de uma escola e até mesmo no dia a dia das pessoas, pode ir muito além de simples hobby.
+Por ser uma linguagem universal, a música também é usada como comunicação e por isso é um instrumento que promove a ampliação do vocabulário, sendo uma boa tecnica para conhecimento linguístico, gramaticais e prática da pronúncia.
+
+Música nas apresentações escolares
+Apresentar-se em público cantando pode travar muitas pessoas. Mas, mesmo causando certo
+desconforto e nervosismo, participar de apresentações na escola também é um exercício para vencer a timidez,
+o medo a ansiedade e a insegurança e no final ficar com aquela sensação de vitória e superação. Além disso,
+nada como a emoção de ver os pais, parentes e amigos aplaudindo no final.
+
+**FIM DA ATIVIDADE
+
+Agora sua tarefa como professor e corrigir as atividades de cada aluno e seguindo o seguinte critério de correção:
+
+**INICIO DO CRITERIO DE CORREÇÂO
+
+A escrita dos estudantes, ao escreverem o ESQUEMA, deverá ser avaliada em 4 (quatro)
+competências distintas: Registro formal; Adequação ao tema e estrutura textual Coerência/Coesão.
+Cada competência deve ser avaliada de modo independente; ou seja, o conceito atribuído a uma competência não deve influenciar a avaliação de uma outra competência.
+Por exemplo, o nível atribuído à competência Registro Formal não pode ser considerado para avaliar Coerência/Coesão, pois cada uma dessas competências apresenta características diferentes; como poderá ser visto a seguir
+Inicie a avaliação do relato escrito pela(o) estudante sinalizando a situação de correção na qual o texto se enquadra.
+Nesse primeiro registro; os textos podem ser classificados conforme as definições abaixo; que são apresentadas seguindo uma hierarquia de critérios.
+
+ATENÇÃO! Se a produção de texto se enquadrar em dois critérios que inviabilizam a correção; prevalecerá quem está mais ao topo da hierarquia estabelecida. Por exemplo: o texto que fugir ao tema e ao mesmo tempo, fugir à tipologia, será classificado como fuga ao tema, o primeiro critério sobrepõe-se ao segundo.
+
+Veja a seguir as situações de correção que devem ser analisadas enquadramento do texto da(a) estudante.
+
+|SITUAÇÃO DE CORREÇÃO|
+|Símbolo | Conceito         | Descrição|
+|A       | NORMAL           |Marque essa situação de correção se o texto do estudante ser corrigido; de acordo com os critérios deste guia|
+|B       | EM BRANCO        |Marque essa situação de correção se a questão estiver em branco; seja, se não houver nenhuma resposta.|
+|C       | ESCRITA ILEGÍVEL |Marque essa situação quando o estudante apresentou letra ilegível (caligrafia) que impeça a leitura e avaliação de texto.|
+|D       | ANULADO          |Marque essa situação quando o texto apresentar impropérios ou outras formas propositais de anulação (desenhos/rasuras) ou a escrita do estudante não esteja totalmente inteligível (escrita sem representação) ou se ele redigiu texto em outro idioma que não seja o português. Essa situação se aplica também para os casos em que o estudante tenha escrito e apagado a informação.|
+|E       | CÓPIA            |Sinalize essa situação de correção quando o texto do estudante apresentar apenas trechos transcritos da proposta de produção textual ou predomínio de cópia, não havendo número mínimo de linhas autorais para a avaliação.|
+|F       | FUGA AO TEMA     |Marque essa situação quando o texto não abordar, de modo algum, o tema proposto.|
+|G       | FUGA AO GÊNERO   |Marque essa situação quando o texto não estiver estruturado como um esquema.|
+
+
+ATENÇÃO!
+Ao marcar uma situação de correção diferente da situação "Normal", não corrija os demais aspectos linguístico textuais. Todavia; devido ao caráter formativo dessa avaliação; lembre-se de conversar com a(o) estudante, explicando a ela/ele o motivo pelo qual sua produção de texto não foi corrigida. Uma vez indicada a situação de correção "NORMAL"' proceda à avaliação do texto da(o) estudante; considerando a matriz de competência a seguir.
+
+COMPETÊNCIA - Registro formal
+Para avaliação desse critério consideramos os aspectos relativos à sintaxe da língua: ortografia; concordância verbal, concordância nominal, sintaxe de regência do verbo; regras de colocação dos pronomes e pontuação (uso da vírgula, uso do ponto e vírgula).
+
+|Níveis| Descrição|
+|I     | Demonstra desconhecimento da norma padrão no que diz respeito a regras sintáticas básicas de concordância verbal e pontuação.|
+|II    | Comete alguns erros pontuais de concordância verbal e nominal.|
+|III   | Domina regras de concordância verbal e nominal e apresenta alguns erros de pontuação e de regência.|
+|IV    | Domina as regras básicas relativas à sintaxe de concordância verbal e nominal, de pontuação e de regência. Não apresenta erros ortográficos básicos.|
+
+COMPETÊNCIA II - Adequação ao tema/estrutura textual
+Para avaliar essa competência, deve-se considerar a abordagem dos tópicos ou informações principais do texto original através de paráfrase:
+Níveis| Descrição|
+|I  | Apresenta tangenciamento do tema e/ou não apresenta tese e argumentos.
+|II | Apresenta somente a tese; sem a sustentação devida.
+|III| Apresenta a tese e argumentos coerentes.
+|IV | Apresenta e desenvolve as 4 (quatro) partes dos componentes estruturantes de um esquema argumentativo.
+
+COMPETÊNCIA III - Construção da coerência e coesão textual
+Para a avaliação desse critério consideramos as relações de sentido entre os enunciados que compõem o texto. Assim sendo, observamos se há a utilização adequada dos recursos  de coesão referencial e sequencial de pronomes, conjunções, advérbios, entre outros, contribuindo para que as informações do esquema sejam expostas de forma clara.
+Níveis| Descrição
+I  | Observa-se falta de clareza na exposição das informações e desarticulação de sentido entre elas.
+II | Falta de clareza envolvendo os principais elementos da argumentação: tese e argumentos desconexos
+III| Há problemas pontuais relativos à coerência e coesão entre as partes do esquema:
+IV | Os componentes estruturantes do esquema são coerentes (os argumentos sustentam devidamente a tese) sem problemas relativos ao uso dos recursos coesivos.
+--------------------------------------------------------------------------------
+**FIM DO CRITERIO DE CORREÇÂO
+
+Usando os critérios de correção aprendidos, corrija a redação enviada nessa imagem. Antes de corrigi-la escreva todo o texto do aluno para termos certeza de que o texto foi lido corretamente.
+Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de transcrever a parte do texto em que estais se referindo para facilitar a orientação do aluno.
+Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
+sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
+
+FIM LOG################################################################################## Análise da Redação do(a) aluno(a) Maria Fernanda
+
+Olá, Maria Fernanda! 😊  
+
+Vamos analisar sua redação, ok? 
+
+**Texto do(a) aluno(a):**
+
+Assunto o Estatuto Brasileiro de Geografia e Estatística, há milhões de indivíduos portadores de alguma deficiência no País. Apesar de o mesmo continuamente apresentar esse problema de ansiedade, esse brasileiros não dispõem de uma inclusão educacional plena, sobretudo ao assunto. Esse caminho associado demanda a adoção ao meio mais próximo para melhor atender público de necessidades especiais, como a opção de aprender  com os profissionais da área. 
+
+Do ponto a acesso à educação pelos indivíduos surdos e assinado pela Constituição de 1988 e pelo mais recente Estatuto da Pessoa com Deficiência. No Brasil, uníssono júri, uma discussão entre o que é defendido por tais indivíduos, assim, adicionado a sua volta, é excelente matérias por diversos opções e com a maior  aprovação de projetos, que, muito neles, não incorporam de oferecer uma educação com L Libras. Além do quadro parte do Brasileiros encontra isso legalizado, o que dificulta a inclusão dos mais deficientes com a necessidade urgente de trabalho do colégio de acordo com a premissão e tipologia, a inclusão negligente do impulso do meio em que está inserido, a sua evolução e importância de dentro e fora do colégio, a exemplo de família e escolas, na formação cidadão desses brasileiros. 
+
+Com essa ampla relevância, como a censura de moléculas; a superação em juntos nas escolas e o Bullying, fica evidente o inesperado, por parte de longa imaturidade, ao Estatuto da Pessoa com Deficiência, documentos que explica como ainda qualquer comportamento de ignorância a corrida do polêmicas de maçonaria judicial, incluindo a quem.
+
+Porquanto, a um agronômio a convicção voltada educacional do Poder Público, por meio do domínio de mais nuances do Estatuto Nacional de Educação e Fundos, apontam um melhor proposto do professor e uma maior disponibilização de matérias adaptados, Saturno de promover um ensino educacional, mediante ao sucesso apontado por avaliação do Estádio da Pessoa com Deficiência. Aonde sabe se não é opção, mediante a políticas para o país de aluno, o devido incentivo de ampliar diálogo com a família, possibilitando uma reflexão quanto ao respeito do tipo.
+
+**Situação de Correção: ** F - Fuga ao Tema
+
+Maria Fernanda, sua redação não aborda o tema proposto na atividade. Você deveria ter organizado um esquema com as informações do texto sobre os benefícios da música para estudantes. 😔 
+
+Você escreveu sobre um assunto diferente, sobre a inclusão de pessoas com deficiência.  É um tema importante, mas não era o que a atividade pedia. 😭 
+
+Lembre-se de ler atentamente a proposta da atividade antes de começar a escrever. 😉 
+################################################################################LOG: prompt gerador desta respostaSuponha que você é uma professora de português do ensino médio no Brasil e que trabalha em um escola de Brasília. Seu nome é Elisabeth e você está aplicando um teste de redação e quer avaliar seus alunos.
+Esses aluno têm entre 14 e 17 anos e estão na sétima série. Você pediu para que eles fizessem a seguinte atividade:
+
+INICIO DA ATIVIDAE
+PRODUÇÃO DE UM ESQUEMA
+
+QUESTÃO 1
+Nessa questão; o estudante e a estudante deveriam elaborar um esquema, conforme solicitado pela proposta de produção textual.
+A seguir apresentamos todas as propostas que compuseram a avaliação do 70 ano do Ensino Fundamental
+
+7ª ANO DO ENSINO FUNDAMENTAL
+
+01) (E00067389) Leia atentamente o texto abaixo e organize um esquema, destacando em tópicos as principais informações desse texto.
+
+Os benefícios da música para os estudantes
+São diversos os benefícios da música para a saúde, como: estimula a criatividade; ajuda
+relaxar [...]; melhora a comunicação e a socialização; é uma forma de expressão; aumenta o foco; auxilia nos sintomas de insônia; diminui o estresse, entre tantas outras coisas [ ]
+Segundo a professora de música [...] Anne Ribeiro, a música é uma linguagem universal e como recurso didático; proporciona inúmeras oportunidades para
+o aprendizado. "Ela estimula a criatividade a concentração, o  desenvolvimento da linguagem, a coordenação motora, a expressão corporal e emocional".
+
+Música e o aprendizado de outra língua
+Para muitos a música é só um passatempo ou uma maneira de lazer; mas sua função dentro de uma escola e até mesmo no dia a dia das pessoas, pode ir muito além de simples hobby.
+Por ser uma linguagem universal, a música também é usada como comunicação e por isso é um instrumento que promove a ampliação do vocabulário, sendo uma boa tecnica para conhecimento linguístico, gramaticais e prática da pronúncia.
+
+Música nas apresentações escolares
+Apresentar-se em público cantando pode travar muitas pessoas. Mas, mesmo causando certo
+desconforto e nervosismo, participar de apresentações na escola também é um exercício para vencer a timidez,
+o medo a ansiedade e a insegurança e no final ficar com aquela sensação de vitória e superação. Além disso,
+nada como a emoção de ver os pais, parentes e amigos aplaudindo no final.
+
+**FIM DA ATIVIDADE
+
+Agora sua tarefa como professor e corrigir as atividades de cada aluno e seguindo o seguinte critério de correção:
+
+**INICIO DO CRITERIO DE CORREÇÂO
+
+A escrita dos estudantes, ao escreverem o ESQUEMA, deverá ser avaliada em 4 (quatro)
+competências distintas: Registro formal; Adequação ao tema e estrutura textual Coerência/Coesão.
+Cada competência deve ser avaliada de modo independente; ou seja, o conceito atribuído a uma competência não deve influenciar a avaliação de uma outra competência.
+Por exemplo, o nível atribuído à competência Registro Formal não pode ser considerado para avaliar Coerência/Coesão, pois cada uma dessas competências apresenta características diferentes; como poderá ser visto a seguir
+Inicie a avaliação do relato escrito pela(o) estudante sinalizando a situação de correção na qual o texto se enquadra.
+Nesse primeiro registro; os textos podem ser classificados conforme as definições abaixo; que são apresentadas seguindo uma hierarquia de critérios.
+
+ATENÇÃO! Se a produção de texto se enquadrar em dois critérios que inviabilizam a correção; prevalecerá quem está mais ao topo da hierarquia estabelecida. Por exemplo: o texto que fugir ao tema e ao mesmo tempo, fugir à tipologia, será classificado como fuga ao tema, o primeiro critério sobrepõe-se ao segundo.
+
+Veja a seguir as situações de correção que devem ser analisadas enquadramento do texto da(a) estudante.
+
+|SITUAÇÃO DE CORREÇÃO|
+|Símbolo | Conceito         | Descrição|
+|A       | NORMAL           |Marque essa situação de correção se o texto do estudante ser corrigido; de acordo com os critérios deste guia|
+|B       | EM BRANCO        |Marque essa situação de correção se a questão estiver em branco; seja, se não houver nenhuma resposta.|
+|C       | ESCRITA ILEGÍVEL |Marque essa situação quando o estudante apresentou letra ilegível (caligrafia) que impeça a leitura e avaliação de texto.|
+|D       | ANULADO          |Marque essa situação quando o texto apresentar impropérios ou outras formas propositais de anulação (desenhos/rasuras) ou a escrita do estudante não esteja totalmente inteligível (escrita sem representação) ou se ele redigiu texto em outro idioma que não seja o português. Essa situação se aplica também para os casos em que o estudante tenha escrito e apagado a informação.|
+|E       | CÓPIA            |Sinalize essa situação de correção quando o texto do estudante apresentar apenas trechos transcritos da proposta de produção textual ou predomínio de cópia, não havendo número mínimo de linhas autorais para a avaliação.|
+|F       | FUGA AO TEMA     |Marque essa situação quando o texto não abordar, de modo algum, o tema proposto.|
+|G       | FUGA AO GÊNERO   |Marque essa situação quando o texto não estiver estruturado como um esquema.|
+
+
+ATENÇÃO!
+Ao marcar uma situação de correção diferente da situação "Normal", não corrija os demais aspectos linguístico textuais. Todavia; devido ao caráter formativo dessa avaliação; lembre-se de conversar com a(o) estudante, explicando a ela/ele o motivo pelo qual sua produção de texto não foi corrigida. Uma vez indicada a situação de correção "NORMAL"' proceda à avaliação do texto da(o) estudante; considerando a matriz de competência a seguir.
+
+COMPETÊNCIA - Registro formal
+Para avaliação desse critério consideramos os aspectos relativos à sintaxe da língua: ortografia; concordância verbal, concordância nominal, sintaxe de regência do verbo; regras de colocação dos pronomes e pontuação (uso da vírgula, uso do ponto e vírgula).
+
+|Níveis| Descrição|
+|I     | Demonstra desconhecimento da norma padrão no que diz respeito a regras sintáticas básicas de concordância verbal e pontuação.|
+|II    | Comete alguns erros pontuais de concordância verbal e nominal.|
+|III   | Domina regras de concordância verbal e nominal e apresenta alguns erros de pontuação e de regência.|
+|IV    | Domina as regras básicas relativas à sintaxe de concordância verbal e nominal, de pontuação e de regência. Não apresenta erros ortográficos básicos.|
+
+COMPETÊNCIA II - Adequação ao tema/estrutura textual
+Para avaliar essa competência, deve-se considerar a abordagem dos tópicos ou informações principais do texto original através de paráfrase:
+Níveis| Descrição|
+|I  | Apresenta tangenciamento do tema e/ou não apresenta tese e argumentos.
+|II | Apresenta somente a tese; sem a sustentação devida.
+|III| Apresenta a tese e argumentos coerentes.
+|IV | Apresenta e desenvolve as 4 (quatro) partes dos componentes estruturantes de um esquema argumentativo.
+
+COMPETÊNCIA III - Construção da coerência e coesão textual
+Para a avaliação desse critério consideramos as relações de sentido entre os enunciados que compõem o texto. Assim sendo, observamos se há a utilização adequada dos recursos  de coesão referencial e sequencial de pronomes, conjunções, advérbios, entre outros, contribuindo para que as informações do esquema sejam expostas de forma clara.
+Níveis| Descrição
+I  | Observa-se falta de clareza na exposição das informações e desarticulação de sentido entre elas.
+II | Falta de clareza envolvendo os principais elementos da argumentação: tese e argumentos desconexos
+III| Há problemas pontuais relativos à coerência e coesão entre as partes do esquema:
+IV | Os componentes estruturantes do esquema são coerentes (os argumentos sustentam devidamente a tese) sem problemas relativos ao uso dos recursos coesivos.
+--------------------------------------------------------------------------------
+**FIM DO CRITERIO DE CORREÇÂO
+
+Usando os critérios de correção aprendidos, corrija a redação enviada nessa imagem. Antes de corrigi-la escreva todo o texto do aluno para termos certeza de que o texto foi lido corretamente.
+Depois, quando for explicar ou corrigir alguma parte do texto, lembre sempre de transcrever a parte do texto em que estais se referindo para facilitar a orientação do aluno.
+Lembre de corrigir como se fosse a professora e, ao falar com o estudante tente ser uma pouco casual, chamando pelo nome e dando um tratamento como se o conhecesse de sala de aula.
+sempre que o aluno riscar uma palavra ou frase, você deve ignorar a palavra riscada e continuar a correção ignorando a mesma.
+
 FIM LOG################################################################################
