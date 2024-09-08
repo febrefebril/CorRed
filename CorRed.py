@@ -1,6 +1,9 @@
 import google.generativeai as genai
 import os
 import PIL.Image
+import logging
+import sys
+
 from os import listdir
 from os.path import isfile, join
 
@@ -8,10 +11,15 @@ from os.path import isfile, join
 PATH_TO_FILES = './essays/'
 # pathToPrompt = './prompts/instructionPrompt'
 PATH_TO_PROMPT = './prompts/instructionPrompt'
+PATH_TO_LOG_FILE = './log/corred.log'
 pathOfFiles = [PATH_TO_FILES + f for f in listdir(PATH_TO_FILES) if isfile(join(PATH_TO_FILES, f)) and ('.txt' not in str(f))]
-
+isSingleFileCorrection = True if (len(sys.argv)) != 1 else False
+logFile = PATH_TO_LOG_FILE 
 genai.configure(api_key=os.environ["API_KEY"])
 model = genai.GenerativeModel(model_name="gemini-1.5-flash")
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(filename=logFile, level=logging.INFO)
 
 def getPromptFromFile(pathToFile):
     f = open(pathToFile)
@@ -22,28 +30,39 @@ def getPromptFromFile(pathToFile):
 def doEssayCorrection(essayPathImage, correctionPrompt ):
     sample_file = PIL.Image.open(essayPathImage)
     correctedEssay = model.generate_content([correctionPrompt, sample_file])
-    print(correctedEssay.text)
+    logger.info('Conteudo de correctedEssay: %s', correctedEssay.text)
+    # print(correctedEssay.text)
     return correctedEssay 
 
 def saveTheCorrection(pathFileToSave, correctedEssay, prompt):
     saveFileAs = '.' + pathFileToSave.split('.')[1] + '.txt'
-    print(saveFileAs)
-    print('Abrindo arquivo para salvar a correcao em: ', saveFileAs)
+    logger.info('conteudo de saveFileAs: %s :', saveFileAs)
     f = open(saveFileAs, 'a')
     f.write(correctedEssay.text)
-    f.write('#' * 80)
-    f.write('LOG: prompt gerador desta resposta')
-    f.write(prompt)
-    f.write('FIM LOG')
-    f.write('#' * 80)
     f.close()
-    print('Fim da correção')
+    logger.info('Prompt gerador da resposta: %s', prompt)
+    logger.info('correcao da redacao: %s', correctedEssay.text)
+    logger.info('fim do log')
 
 def correctionOfAllEssayFromFolder(pathToFolderOfTheEssays, promptOfCorrection):
     for file in pathToFolderOfTheEssays:
-        correctedEssay = doEssayCorrection(file, prompt)
-        saveTheCorrection(file, correctedEssay, prompt)
+        correctedEssay = doEssayCorrection(file, promptOfCorrection)
+        saveTheCorrection(file, correctedEssay, promptOfCorrection)
 
-prompt = getPromptFromFile(PATH_TO_PROMPT)
-correctionOfAllEssayFromFolder(pathOfFiles, prompt)
+def correctTheEnssay():
+    pass
+
+# print(sys.argv[0])
+# print(sys.argv)
+# print(isSingleFileCorrection)
+if isSingleFileCorrection:
+    # prompt = ''
+    # enssay = ''
+    # correctTheEnssay(enssay, prompt)
+    print('Modo correcao unica')
+    pass
+else:
+    print('Modo correcao em bloco')
+    prompt = getPromptFromFile(PATH_TO_PROMPT)
+    correctionOfAllEssayFromFolder(pathOfFiles, prompt)
 
