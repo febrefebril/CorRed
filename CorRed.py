@@ -49,16 +49,15 @@ def correctionOfAllEssayFromFolder(pathToFolderOfTheEssays, promptOfCorrection):
         correctedEssay = doEssayCorrection(file, promptOfCorrection)
         saveTheCorrection(file, correctedEssay, promptOfCorrection)
 
-def correctTheEnssay():
-    pass
-
 # print(sys.argv[0])
 # print(sys.argv)
 # print(isSingleFileCorrection)
 if isSingleFileCorrection:
-    # prompt = ''
-    # enssay = ''
-    # correctTheEnssay(enssay, prompt)
+    # prompt = getPromptFromFile(sys.argv[2]) 
+    prompt = sys.argv[2] 
+    enssay = sys.argv[4]
+    print(f'prompt:{prompt} \nenssay:{enssay}')
+    doEssayCorrection(enssay, prompt)
     print('Modo correcao unica')
     pass
 else:
