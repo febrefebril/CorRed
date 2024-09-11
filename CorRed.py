@@ -7,9 +7,7 @@ import sys
 from os import listdir
 from os.path import isfile, join
 
-#pathToListOfFiles = './essays/'
 PATH_TO_FILES = './essays/'
-# pathToPrompt = './prompts/instructionPrompt'
 PATH_TO_PROMPT = './prompts/instructionPrompt'
 PATH_TO_LOG_FILE = './log/corred.log'
 pathOfFiles = [PATH_TO_FILES + f for f in listdir(PATH_TO_FILES) if isfile(join(PATH_TO_FILES, f)) and ('.txt' not in str(f))]
@@ -31,7 +29,6 @@ def doEssayCorrection(essayPathImage, correctionPrompt ):
     sample_file = PIL.Image.open(essayPathImage)
     correctedEssay = model.generate_content([correctionPrompt, sample_file])
     logger.info('Conteudo de correctedEssay: %s', correctedEssay.text)
-    # print(correctedEssay.text)
     return correctedEssay 
 
 def saveTheCorrection(pathFileToSave, correctedEssay, prompt):
@@ -49,9 +46,6 @@ def correctionOfAllEssayFromFolder(pathToFolderOfTheEssays, promptOfCorrection):
         correctedEssay = doEssayCorrection(file, promptOfCorrection)
         saveTheCorrection(file, correctedEssay, promptOfCorrection)
 
-# print(sys.argv[0])
-# print(sys.argv)
-# print(isSingleFileCorrection)
 if isSingleFileCorrection:
     # prompt = getPromptFromFile(sys.argv[2]) 
     prompt = sys.argv[2] 
